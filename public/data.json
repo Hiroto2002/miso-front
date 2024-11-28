@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "着物で訪れる京都のお寺巡り",
+        "thumbnail": "https://example.com/thumbnail1.jpg",
+        "clientName": "KyotoTour",
+        "createdAt": "2024-11-27",
+        "updatedAt?": null,
+        "tags": ["お寺", "着物", "京都"]
+    },
+    {
+        "id": 2,
+        "title": "着物初心者でも安心！レンタル体験記",
+        "thumbnail": "https://example.com/thumbnail2.jpg",
+        "clientName": "KimonoRental",
+        "createdAt": "2024-11-27",
+        "updatedAt?": null,
+        "tags": ["着物", "レンタル", "初心者"]
+    },
+    {
+        "id": 3,
+        "title": "鎌倉で着物を着て歴史散策",
+        "thumbnail": "https://example.com/thumbnail3.jpg",
+        "clientName": "KamakuraGuide",
+        "createdAt": "2024-11-27",
+        "updatedAt?": null,
+        "tags": ["鎌倉", "着物", "歴史"]
+    },
+    {
+        "id": 4,
+        "title": "夏祭りに映える浴衣の選び方",
+        "thumbnail": "https://example.com/thumbnail4.jpg",
+        "clientName": "SummerFestival",
+        "createdAt": "2024-11-27",
+        "updatedAt?": null,
+        "tags": ["浴衣", "夏祭り", "着物"]
+    },
+    {
+        "id": 5,
+        "title": "四季折々の着物コーディネート術",
+        "thumbnail": "https://example.com/thumbnail5.jpg",
+        "clientName": "KimonoStyle",
+        "createdAt": "2024-11-27",
+        "updatedAt?": null,
+        "tags": ["着物", "コーディネート", "四季"]
+    },
+    {
+        "id": 6,
+        "title": "着物と寺院の調和：フォトスポット紹介",
+        "thumbnail": "https://example.com/thumbnail6.jpg",
+        "clientName": "PhotoSpot",
+        "createdAt": "2024-11-27",
+        "updatedAt?": null,
+        "tags": ["お寺", "着物", "写真"]
+    }
+]
