@@ -70,3 +70,19 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+h1 {
+  @apply text-3xl font-bold;
+}
+h2 {
+  @apply text-2xl font-bold;
+}
+h3 {
+  @apply text-xl font-bold;
+}
+li {
+  @apply list-disc ml-4;
+}
+li.task-list-item {
+  @apply list-none ml-0;
+}
