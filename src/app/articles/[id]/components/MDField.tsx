@@ -1,5 +1,6 @@
 import React from "react";
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 interface MDFieldProps {
   markdownString: string;
@@ -8,7 +9,9 @@ interface MDFieldProps {
 const MDField = ({ markdownString }: MDFieldProps) => {
   return (
     <div>
-      <ReactMarkdown>{markdownString}</ReactMarkdown>
+      <ReactMarkdown remarkPlugins={[remarkGfm]}>
+        {markdownString}
+      </ReactMarkdown>
     </div>
   );
 };
