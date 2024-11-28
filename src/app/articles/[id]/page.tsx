@@ -29,6 +29,9 @@ const detail = ({ params, articleData }: DetailProps) => {
 - list
 - list
 - list
+- [ ] checkbox
+- [x] checkbox
+
 
 discription
 `;
