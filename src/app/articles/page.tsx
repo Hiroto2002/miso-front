@@ -1,13 +1,13 @@
-import Link from "next/link";
-import React from "react";
 
-const page = () => {
-  const id = 1;
+import React from "react";
+import { ArticleListContainer } from "./_containers/article-list";
+
+const Page = () => {
   return (
-    <>
-      <Link href={"/articles/" + id}>link to {id}</Link>
-    </>
+    <main className="h-full">
+      <ArticleListContainer />
+    </main>
   );
 };
 
-export default page;
+export default Page;
