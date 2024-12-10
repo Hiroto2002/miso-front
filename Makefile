@@ -1,5 +1,5 @@
-dev/front:
+front/dev:
 	pnpm run dev
 
-add/ui/%:
+ui/add%:
 	npx shadcn@latest add $*
